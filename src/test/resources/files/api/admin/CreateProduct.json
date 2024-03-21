@@ -1,0 +1,94 @@
+{
+    "product": {
+        "name": "Auto Product Admin Api 01",
+        "product_type_id": 115,
+        "package_size_id": 7,
+        "brand_id": 3002,
+        "additional_fee_percentage": 0,
+        "volume": "1",
+        "volume_unit": "g",
+        "sampleable": true,
+        "size_w": "1",
+        "size_h": "1",
+        "size_l": "1",
+        "case_size_w": "1",
+        "case_size_h": "1",
+        "case_size_l": "1",
+        "case_per_pallet": 1,
+        "cases_per_layer": 1,
+        "master_carton_size_w": "1",
+        "master_carton_size_h": "1",
+        "master_carton_size_l": "1",
+        "master_carton_weight": 1,
+        "layers_per_pallet": 1,
+        "master_cartons_per_pallet": 1,
+        "cases_per_master_carton": 1,
+        "product_category_ids": [
+            1
+        ],
+        "container_type_id": null,
+        "state_product_fees_attributes": [],
+        "product_tags_attributes": [
+
+        ],
+        "products_region_moqs_attributes": [
+            {
+                "region_id": 58,
+                "moq": 1
+            },
+            {
+                "region_id": 26,
+                "moq": 1
+            },
+            {
+                "region_id": 61,
+                "moq": 1
+            },
+            {
+                "region_id": 66,
+                "moq": 1
+            },
+            {
+                "region_id": 65,
+                "moq": 1
+            },
+            {
+                "region_id": 55,
+                "moq": 1
+            },
+            {
+                "region_id": 63,
+                "moq": 1
+            },
+            {
+                "region_id": 64,
+                "moq": 1
+            },
+            {
+                "region_id": 62,
+                "moq": 1
+            },
+            {
+                "region_id": 53,
+                "moq": 1
+            },
+            {
+                "region_id": 54,
+                "moq": 1
+            },
+            {
+                "region_id": 25,
+                "moq": 1
+            },
+            {
+                "region_id": 51,
+                "moq": 1
+            },
+            {
+                "region_id": 67,
+                "moq": 1
+            }
+        ],
+        "case_weight": 1
+    }
+}

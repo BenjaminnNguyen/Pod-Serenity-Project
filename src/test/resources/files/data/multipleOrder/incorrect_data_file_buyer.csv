@@ -1,0 +1,5 @@
+Item Code,Quantity,UOM,Brand,Description,Unit Volume,Case Size,UPC,Price,Promotion,buyer_ID,Customer PO
+44180,1,,,,,,250419980001,$10.00,,"", Auto Customer PO
+44181,2,,,,,,250419980002,$10.00,,abc, Auto Customer PO
+44182,3,,,,,,250419980003,$10.00,,999999, Auto Customer PO
+44183,4,,,,,,250419980004,$10.00,,2840, Auto Customer PO

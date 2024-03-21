@@ -1,0 +1,95 @@
+{
+    "product": {
+        "__HAS_LOCK_REQUEST": false,
+        "__HAS_EDIT_REQUEST": false,
+        "state_product_fees_attributes": [],
+        "state_product_fees_attributes__ADD": [],
+        "state_product_fees_attributes__DELETE": [],
+        "case_per_pallet": 1,
+        "cases_per_layer": 1,
+        "layers_per_pallet": 1,
+        "master_cartons_per_pallet": 1,
+        "cases_per_master_carton": 1,
+        "master_carton_size_l": 1,
+        "master_carton_size_w": 1,
+        "master_carton_size_h": 1,
+        "master_carton_weight": 1,
+        "products_region_moqs_attributes": [
+            {
+                "region_id": 58,
+                "moq": 1
+            },
+            {
+                "region_id": 26,
+                "moq": 1
+            },
+            {
+                "region_id": 61,
+                "moq": 1
+            },
+            {
+                "region_id": 66,
+                "moq": 1
+            },
+            {
+                "region_id": 65,
+                "moq": 1
+            },
+            {
+                "region_id": 55,
+                "moq": 1
+            },
+            {
+                "region_id": 63,
+                "moq": 1
+            },
+            {
+                "region_id": 64,
+                "moq": 1
+            },
+            {
+                "region_id": 62,
+                "moq": 1
+            },
+            {
+                "region_id": 53,
+                "moq": 1
+            },
+            {
+                "region_id": 54,
+                "moq": 1
+            },
+            {
+                "region_id": 25,
+                "moq": 1
+            },
+            {
+                "region_id": 51,
+                "moq": 1
+            },
+            {
+                "region_id": 67,
+                "moq": 1
+            }
+        ],
+        "name": "Test Product Read Json",
+        "size_l": 1,
+        "size_w": 1,
+        "size_h": 1,
+        "case_size_h": 1,
+        "case_size_w": 1,
+        "case_size_l": 1,
+        "case_weight": 1,
+        "package_size_id": 7,
+        "volume": 1,
+        "volume_unit": "kg",
+        "brand_id": 2697,
+        "product_category_id": 3,
+        "product_category_ids": [
+            3
+        ],
+        "product_type_id": 33,
+        "__product_type_id": null,
+        "container_type_id": null
+    }
+}

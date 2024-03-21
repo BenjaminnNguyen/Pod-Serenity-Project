@@ -1,0 +1,16 @@
+Month,vendor_company_id,Adjustment type_id,Effective Date,Descriptions,Amount
+9/1/2023,2025,8,9/25/2023,1 - Upload Valid,10
+9/1/2023,2025,99,9/25/2023,2 - Adjustment not found,20
+9/1/2023,,8,9/25/2023,3 - No VC exist,-30
+9/1/2023,2025,8,9/25/2023,4 - vendor company locked,40
+9/1/2023,,12,9/25/2023,5 - VC blank,50
+9/1/2023,2,8,9/25/2023,6 - Discount for Prepayment: 2% - Amount empty,
+9/1/2023,2,8,9/25/2023,7 - Other - Amount = 0,0
+9/1/2023,2,8,9/25/2023,8 - Financial Adjustment Type test 1 ,-80
+1-Sep,2,7,9/25/2023,9 - Format date invald - Credit to store,90
+9/1/2023,2025,8,9/25/2023,10 - Financial Adjustment Type test 2,100.99
+9/1/2023,9999,9999,9/25/2023,11 - VC not found - Adj not found,110
+,2025,12,9/25/2023,12 - Month blank ,120
+9/1/2023,2025,,9/25/2023,13 - Adj blank,130
+9/1/2023,2025,8,9/25/2023,,140
+9/1/2023,2025,8,,16 - Effective Date blank,160
